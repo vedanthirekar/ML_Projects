@@ -1,2 +1,2 @@
 Used K-means clustering algorithm to segment customers based on annual income and spending scores.
-data set used - mall_customers.csv
+dataset used - mall_customers.csv
